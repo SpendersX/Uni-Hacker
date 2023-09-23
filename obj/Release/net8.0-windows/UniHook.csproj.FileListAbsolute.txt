@@ -1,0 +1,17 @@
+C:\Users\xvani\source\repos\UniHook\UniHook\bin\Release\net8.0-windows\UniHook.exe
+C:\Users\xvani\source\repos\UniHook\UniHook\bin\Release\net8.0-windows\UniHook.deps.json
+C:\Users\xvani\source\repos\UniHook\UniHook\bin\Release\net8.0-windows\UniHook.runtimeconfig.json
+C:\Users\xvani\source\repos\UniHook\UniHook\bin\Release\net8.0-windows\UniHook.dll
+C:\Users\xvani\source\repos\UniHook\UniHook\bin\Release\net8.0-windows\UniHook.pdb
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.Form1.resources
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.Properties.Resources.resources
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.csproj.GenerateResource.cache
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.AssemblyInfoInputs.cache
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.AssemblyInfo.cs
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.csproj.CoreCompileInputs.cache
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.dll
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\refint\UniHook.dll
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.pdb
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\UniHook.genruntimeconfig.cache
+C:\Users\xvani\source\repos\UniHook\UniHook\obj\Release\net8.0-windows\ref\UniHook.dll
