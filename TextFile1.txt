@@ -1,0 +1,16 @@
+﻿            string processName = listBox1.SelectedItem.ToString();
+            Process[] processes = Process.GetProcessesByName(processName);
+            if (processes.Length > 0)
+            {
+                Process process = processes[0];
+                listBox2.Items.Clear();
+                listBox2.Items.Add("Process Name: " + process.ProcessName);
+                listBox2.Items.Add("Process ID: " + process.Id);
+                listBox2.Items.Add("Start Time: " + process.StartTime.ToString());
+                listBox2.Items.Add("Total Processor Time: " + process.TotalProcessorTime.ToString());
+                listBox2.Items.Add("Working Set: " + process.WorkingSet64.ToString());
+            }
+            else
+            {
+                MessageBox.Show("Process not found!");
+            }

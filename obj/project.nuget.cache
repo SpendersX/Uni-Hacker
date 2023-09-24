@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jjNRhvNk5ZMB5W2y9+f53Xq6b7rCHysxDdzPTfsA65Dxhl70g3QZ4qaYphwtglV7pz2kFDyfdqHlK/fEYuP0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xvani\\source\\repos\\UniHook\\UniHook\\UniHook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xvani\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MaterialSkin 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MaterialSkin",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
